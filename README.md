@@ -1,4 +1,5 @@
-# Image Compressor
+# PixelSqueeze
+##Optimize your images with just one click! 📷
 
 Image Compressor is a command line tool that allows you to easily compress and optimize images to reduce their file size without losing quality. The tool supports multiple image formats such as JPEG, PNG, GIF, etc.
 
@@ -9,10 +10,7 @@ To install Image Compressor, you will need to have Python 3 installed on your ma
 Once you have Python installed, you can use pip to install the following libraries: 
 pip install pillow
 pip install numpy
-<div style="float: left; width: 50%;">
-  ```python
-  # code goes here
-  print("Hello World")
+
 
 
 ## Usage
