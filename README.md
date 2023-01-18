@@ -8,7 +8,7 @@ To install Image Compressor, you will need to have Python 3 installed on your ma
 
 Once you have Python installed, you can use pip to install the following libraries: 
 '''pip install pillow
-pip install numpy'''
+pip install numpy
 
 
 ## Usage
