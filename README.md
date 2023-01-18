@@ -7,8 +7,8 @@ Image Compressor is a command line tool that allows you to easily compress and o
 To install Image Compressor, you will need to have Python 3 installed on your machine. You can download the latest version of Python from the official website (https://www.python.org/downloads/).
 
 Once you have Python installed, you can use pip to install the following libraries: 
-pip install pillow
-pip install numpy
+'''pip install pillow
+pip install numpy'''
 
 
 ## Usage
